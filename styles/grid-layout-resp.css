@@ -14,7 +14,7 @@ html {
   grid-area: header;
   justify-items: center;
   align-items: center;
-  font-size: clamp(1.5em, 3vw, 2em);
+  font-size: clamp(1.5rem, 3vw, 2rem);
   text-align: center;
 }
 
@@ -28,7 +28,7 @@ html {
 
 .main__text {
   margin-top: 3vh;
-  font-size: clamp(1.5em, 3vw, 2em);
+  font-size: clamp(1.5rem, 3vw, 2rem);
   text-align: center;
 }
 
@@ -51,7 +51,7 @@ html {
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-size: clamp(1.5em, 3vw, 2em);
+  font-size: clamp(1.5rem, 3vw, 2rem);
 }
 
 .nav__text_3 {
@@ -68,7 +68,7 @@ html {
 
 .aside__text {
   margin-top: 3vh;
-  font-size: clamp(1.5em, 3vw, 2em);
+  font-size: clamp(1.5rem, 3vw, 2rem);
   text-align: center;
 }
 
@@ -95,7 +95,7 @@ html {
   align-items: center;
   justify-items: center;
   text-align: center;
-  font-size: clamp(1em, 2vw, 2em);
+  font-size: clamp(1rem, 2vw, 2rem);
 }
 
 .container {
